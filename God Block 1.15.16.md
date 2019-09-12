@@ -20,3 +20,6 @@
 - [Reborncore](https://www.curseforge.com/minecraft/mc-mods/reborncore) ::> [ChangeLog](https://www.curseforge.com/minecraft/mc-mods/reborncore/files/2779436)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) ::> [ChangeLog](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/2783523)
 - [Techreborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) ::> [ChangeLog](https://www.curseforge.com/minecraft/mc-mods/techreborn/files/2779442)
+
+# TODO
+Add a book that explains how to make the starting areas, however if you're familiar with StoneBlock and CobbleBlock you already know how to do it.
