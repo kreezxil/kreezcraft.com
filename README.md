@@ -1,2 +1,3 @@
 # kreezcraft.com
-wiki wiki
+
+[Goto the Wiki](https://github.com/kreezxil/kreezcraft.com/wiki)
