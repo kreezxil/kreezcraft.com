@@ -2,7 +2,7 @@
 
 # Changes
 
-To fix the recent crash involving the mana pool in the Roots shack basement on the official server the following happened.
+To fix the recent crash involving the mana pool in the Roots shack basement on the official server the following happened. Cleaned up server pack files a bit.
 
 ## Removed
 - Arcane Essentials
